@@ -4,6 +4,6 @@
 
 2. Выполнить команду 
 ```
-powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/best-tech/dev-env/master/start.cmd'))" && Sstart.cmd
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/best-tech/dev-env/master/start.cmd'))" && start.cmd
 ```
 ### Необходимые программы "правильного" разработчика 1С установятся автоматически
